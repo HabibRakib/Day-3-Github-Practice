@@ -4,4 +4,6 @@ h2{
 }
 p{
     font-size: larger;
+    border: 5px solid coral;
+
 }
